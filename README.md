@@ -2,7 +2,7 @@
 in the repository run this command
 ## for install all packages
   >Timer-app> npm i
-## fro run the app
+## for run the app
   >Timer-app> npm start
 
 ## Assumptions Made During Development
