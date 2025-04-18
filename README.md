@@ -1,7 +1,9 @@
 # Project running instruction
 in the repository run this command
- for install all packages >Timer-app>npm i 
- fro run the app >Timer-app>npm start
+##for install all packages
+  >Timer-app> npm i
+##fro run the app
+  >Timer-app> npm start
 
 ## Assumptions Made During Development
 LocalStorage for Persistence
